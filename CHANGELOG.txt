@@ -1,0 +1,6 @@
+ - implemented one function in main to propagate ASCII dragon art that was found online
+ - implemented curses coloration to the ASCII art
+ - implemented 'information toggles' that will alert the user to compile-time  command switches taht were used to affect the game (nummon, numobj, cheat, sight, nofog)
+ - impelemtned a while loop operation to create flame animation
+ - implemented the ability to change game settings on the fly by pushing
+    '+'
